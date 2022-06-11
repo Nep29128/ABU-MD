@@ -19,18 +19,18 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['917025994178']
-global.premium = ['917025994178']
-global.ownernomer = '917025994178'
-global.ownername = '𝙰𝙱𝚄 𝚆𝙰 𝙼𝙳'
-global.botname = 'Abu-Md'
-global.footer = 'jsl ABU.'
+global.owner = ['94702476028']
+global.premium = ['94702476028']
+global.ownernomer = '94702476028'
+global.ownername = '©Nepofficial' 
+global.botname = 'Nep-md'
+global.footer = '©Nepofficial'
 global.ig = 'https://github.com/Afx-Abu'
-global.region = 'India, NorthEast, Mizoram'
+global.region = 'sri lanka, southern , Galle'
 global.sc = 'https://github.com/Afx-Abu/ABU-MD'
 global.myweb = 'https://youtu.be/'
-global.packname = 'ABU Bot'
-global.author = 'JSL ABU'
+global.packname = 'NEP Bot'
+global.author = 'Nep Nep'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
